@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="botonIgual">
+        <item name="android:backgroundTint">#4CAF50</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="botonesOperaciones">
+        <item name="android:backgroundTint">#C7AFAFAF</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
